@@ -8,4 +8,5 @@ function helloWorld() {
 
 function secondFunction() {
     alert("This is number 2");
+    alert("Change 1");
 }

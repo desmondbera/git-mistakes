@@ -10,4 +10,5 @@ function secondFunction() {
     alert("This is number 2");
     alert("Change 1");
     alert("Change 2");
+    alert("Change 3");
 }
